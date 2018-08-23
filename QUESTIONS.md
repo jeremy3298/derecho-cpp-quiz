@@ -1,10 +1,10 @@
 ### Answer each question in a few sentences or less 
 
-**1. What happens when this code is run? If there is an error, explain why it occurs.**   
+**1. What happens when this code is run? Explain the output.**   
 ```
 struct A {
-  void b() { cout << "a"; }
-  virtual void c() { cout << "b"; }
+  void b() { cout << "b"; }
+  virtual void c() { cout << "c"; }
 };
 
 int main()
