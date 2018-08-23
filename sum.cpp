@@ -6,11 +6,12 @@
 
 /** 
  * 2. Write a function that uses a fold expression to calculate the sum of an arbitrary 
- * number of numbers at compile time.
+ *     number of numbers at compile time.
  */ 
 
 /**
- * 3. Use variadic templates to calculate the sum of an arbitrary number of numbers
+ * 3. Use variadic templates to calculate the sum of an arbitrary number of numbers at
+ *    compile time.
  * 
  * HINT: You should have three templated things: one base template and two
  *       specializations
@@ -20,6 +21,5 @@
  * Call your code and print its result from inside main enough times to convince 
  * yourself it works  
  */
-
 int main() {
 }
